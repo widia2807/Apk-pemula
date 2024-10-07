@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">Indonesian Food</string>
+    <string name="food_name" translatable="false">Nama Makanan</string>
+    <string name="description" translatable="false">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="back">Kembali</string>
+    <string name="list" translatable="false">List</string>
+    <string name="grid" translatable="false">Grid</string>
+    <string-array name="data_name">
+        <item>Bakso</item>
+        <item>Ketupat</item>
+        <item>Martabak Telor</item>
+        <item>Nasi goreng</item>
+        <item>Pecel</item>
+        <item>Ramen</item>
+        <item>Sup Buntut</item>
+        <item>Tempe</item>
+        <item>Tumis Kangkung</item>
+        <item>Tumpeng</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Hidangan bola daging yang umumnya terbuat dari daging sapi, dihidangkan dengan kuah kaldu gurih dan dilengkapi mi, tahu, sayuran, dan sambal. Sangat populer sebagai makanan jalanan di Indonesia.</item>
+        <item>Nasi yang dimasak dalam anyaman daun kelapa muda, menghasilkan tekstur yang padat. Ketupat biasanya disajikan bersama opor ayam, rendang, atau sate sebagai bagian dari hidangan tradisional.</item>
+        <item>Hidangan gurih yang terdiri dari kulit tipis yang diisi campuran telur, daging cincang, dan daun bawang, lalu digoreng hingga renyah. Biasanya disajikan dengan acar dan saus cuka.</item>
+        <item>Makanan yang terdiri dari nasi yang digoreng bersama bumbu-bumbu seperti bawang putih, kecap, dan cabai, serta sering kali ditambah telur, ayam, atau udang. Ini adalah salah satu makanan paling ikonik di Indonesia.</item>
+        <item>Hidangan sayuran rebus yang disiram dengan saus kacang gurih. Biasanya berisi kangkung, kacang panjang, tauge, dan tempe, sering disantap dengan nasi.</item>
+        <item> Mie Jepang dalam kuah yang kaya akan cita rasa, seperti kaldu daging atau ayam, dan dilengkapi dengan topping seperti telur, daging babi atau ayam, dan sayuran. Ramen memiliki variasi rasa yang khas, tergantung dari asal daerahnya.</item>
+        <item>Sup berbahan dasar buntut sapi yang direbus hingga empuk dalam kaldu yang gurih. Sup ini biasanya dilengkapi dengan potongan wortel, kentang, dan daun bawang, serta dimakan bersama nasi.</item>
+        <item>Makanan khas Indonesia yang terbuat dari fermentasi kacang kedelai. Tempe dapat digoreng atau dimasak dalam berbagai hidangan dan dikenal sebagai sumber protein nabati yang sehat.</item>
+        <item>Kangkung yang ditumis cepat dengan bumbu seperti bawang putih, cabai, dan kecap, menciptakan hidangan sayur yang lezat dan segar.</item>
+        <item>Hidangan khas Indonesia berupa nasi kuning yang disajikan dalam bentuk kerucut, biasanya untuk acara-acara perayaan. Tumpeng disajikan bersama berbagai lauk pauk seperti ayam goreng, tempe, dan sambal.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/bakso</item>
+        <item>@drawable/ketupat</item>
+        <item>@drawable/martabaktelor</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/pecel</item>
+        <item>@drawable/ramen</item>
+        <item>@drawable/supbuntut</item>
+        <item>@drawable/tempe</item>
+        <item>@drawable/tumiskangkung</item>
+        <item>@drawable/tumpeng</item>
+    </integer-array>
+
+</resources>
